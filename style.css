@@ -1,0 +1,42 @@
+*{
+    background-color:#A2B29F;
+}
+h1 {
+    color:  #F8EDE3;
+    font-size: 450%;
+    text-align: center;
+    background-color: #3d4d3a;}
+h2{
+    color:#3d4d3a;
+    text-align: center;
+
+}
+h3{
+    color: #F8EDE3;
+    text-align: justify;
+}
+.perfil{
+    text-align: center;
+    border-radius: 50%;
+    height: 30%;
+    margin: auto;
+    display: block;
+    transition: 0.3ms ease;
+}
+.perfil:hover{
+    transform: scale(1.2);
+}
+.links-pessoal{
+    text-align: center;
+    border-radius: 12%;
+    height: 25%;
+    margin: auto;
+    display: block;
+}
+.link{
+    color:#3d4d3a;
+    font-size: 150%;
+}
+footer{
+    text-align: center;
+}
